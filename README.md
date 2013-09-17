@@ -4,8 +4,8 @@ StarFighter
 My first project of Spring 2011
 
 
-    run
 ===========
+run
 
 In the terminal...
 
