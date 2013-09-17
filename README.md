@@ -11,4 +11,5 @@ My first project of Spring 2011
 In the terminal...
 
 $ javac StarFighter.java
+
 $ java StarFighter
